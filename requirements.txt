@@ -2,5 +2,4 @@ streamlit
 numpy
 pandas
 gensim==4.3.2
-tensorflow==2.15.0
 scikit-learn
